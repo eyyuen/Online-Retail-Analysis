@@ -21,9 +21,9 @@ This project analyzes real transactional data from a UK-based online retailer wi
 
 ##  Deliverables
 
-- 🧮 [SQL Queries & Schema Design](sql/)
-- 🐍 [Python Scripts](scripts/)
-- 📈 [Charts & Visualizations](charts/)
+- 🧮 [SQL Queries & Schema Design](Scripts/)
+- 🐍 [Python Scripts](Scripts/)
+- 📈 [Charts & Visualizations](Charts/)
 - 📄 [Detailed Report (PDF)](OnlineRetail_Report.pdf)
 
 ---
@@ -47,51 +47,51 @@ This project analyzes real transactional data from a UK-based online retailer wi
   - *Rabbit Night Light* in October–November
   - *Paper Craft, Little Birdie* in December
 
-### 2. 🌍 Regional Sales Differences
+### 2.  Regional Sales Differences
 
 - UK dominates sales (~£374k from top 3 products)  
 - There are clear regional differences in product demand
 
-### 3. 💰 Product Strategy
+### 3.  Product Strategy
 
 - Some items deliver high revenue despite low unit sales (high margin)  
 - Others are high in volume but lower in price (low margin)
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
-### 🏷️ Inventory Planning
+###  Inventory Planning
 
 - Ensure top-selling products are available consistently  
 - Track and plan for seasonal spikes in demand
 
-### 🎯 Product Strategy
+###  Product Strategy
 
 - Promote high-margin products strategically  
 - Consider bundling low-margin, high-volume items
 
-### 🌐 Marketing Strategy
+###  Marketing Strategy
 
 - Tailor campaigns by country based on product popularity  
 - Reassess Q4 strategies to better capture holiday season sales
 
 ---
 
-## 📈 Visual Insights
+##  Visual Insights
 
 Charts created in Python using Seaborn & Matplotlib:
 
-- 📊 Monthly revenue trends (Top 10 products)  
-- 📊 Top products by quarter (Revenue & Quantity)  
-- 📊 Top products overall (Revenue vs. Quantity)  
-- 📊 Top 3 products by country
+-  Monthly revenue trends (Top 10 products)  
+-  Top products by quarter (Revenue & Quantity)  
+-  Top products overall (Revenue vs. Quantity)  
+-  Top 3 products by country
 
-📸 All charts are saved in the [`charts/`](charts/) folder.
+ All charts are saved in the [`Charts/`](Charts/) folder.
 
 ---
 
-## 🛠️ Skills Demonstrated
+##  Skills Demonstrated
 
 - **SQL:** Joins, aggregations, segmentation queries  
 - **Python:** Data cleaning with Pandas, data visualization with Seaborn & Matplotlib  
@@ -100,7 +100,7 @@ Charts created in Python using Seaborn & Matplotlib:
 
 ---
 
-## 📝 Final Summary
+##  Final Summary
 
 This analysis revealed consistent top-selling products and several seasonal demand spikes. Regional differences in product popularity highlight opportunities for targeted marketing and inventory optimization. Combining SQL and Python enabled deep, flexible insights that inform practical business strategies.
 
